@@ -1,4 +1,4 @@
-# 🎓 LearnSynth AI - Intelligent Study Companion
+#  LearnSynth AI - Intelligent Study Companion
 
 <div align="center">
 
@@ -15,22 +15,22 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🎯 Multimodal Learning
-- 📸 **Image Analysis** - Analyze diagrams, charts, screenshots, and photos
-- 🎥 **Video Summarization** - Extract key points from educational videos
-- 🎵 **Audio Transcription** - Transcribe lectures and ask questions
-- 📄 **Document Processing** - PDFs, text files, code files, and more
+###  Multimodal Learning
+-  **Image Analysis** - Analyze diagrams, charts, screenshots, and photos
+-  **Video Summarization** - Extract key points from educational videos
+-  **Audio Transcription** - Transcribe lectures and ask questions
+-  **Document Processing** - PDFs, text files, code files, and more
 
-### 💬 Interactive Chat Interface
-- ✅ **Markdown Rendering** - Beautiful formatting with headings, lists, tables
-- ✅ **Syntax Highlighting** - Code blocks with language-specific colors
-- ✅ **Copy Functionality** - One-click copy for messages and code
-- ✅ **Dark Mode** - Easy on the eyes for late-night studying
-- ✅ **Smooth Animations** - Premium UI with gradient effects
+###  Interactive Chat Interface
+-  **Markdown Rendering** - Beautiful formatting with headings, lists, tables
+-  **Syntax Highlighting** - Code blocks with language-specific colors
+-  **Copy Functionality** - One-click copy for messages and code
+-  **Dark Mode** - Easy on the eyes for late-night studying
+-  **Smooth Animations** - Premium UI with gradient effects
 
-### ⚡ Performance
+###  Performance
 - Fast response times with Gemini 2.5 Flash
 - Async file processing for large videos
 - Instant file uploads with drag & drop
@@ -38,7 +38,7 @@
 
 ---
 
-## 🎬 Demo
+##  Demo
 
 ### Upload & Chat
 1. Drag and drop any file (image, video, audio, PDF)
@@ -53,16 +53,15 @@
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8+
 - Node.js 16+
-- Google Gemini API Key ([Get one here](https://aistudio.google.com/app/apikey))
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/learnsynth-ai.git
+git clone https://github.com/MansoobeZahra/learnsynth-ai.git
 cd learnsynth-ai
 ```
 
@@ -107,7 +106,7 @@ npm install
 
 ---
 
-## 🎮 Usage
+##  Usage
 
 ### Start the Application
 
@@ -132,11 +131,6 @@ cd frontend
 npm run dev
 ```
 
-### Access the Application
-- **Frontend**: http://localhost:5174
-- **Backend API**: http://localhost:8001
-- **API Docs**: http://localhost:8001/docs
-
 ---
 
 ## 🛠️ Tech Stack
@@ -157,7 +151,7 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 learnsynth-ai/
@@ -184,7 +178,7 @@ learnsynth-ai/
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -200,7 +194,7 @@ VITE_API_URL=http://localhost:8001
 
 ---
 
-## 📝 API Endpoints
+##  API Endpoints
 
 ### `POST /api/chat`
 Send a message with optional file attachment.
@@ -219,7 +213,7 @@ Send a message with optional file attachment.
 
 ---
 
-## 🎨 UI Features
+##  UI Features
 
 ### Chat Interface
 - **Gradient Message Bubbles** - Purple-to-pink for AI, gray for user
@@ -236,7 +230,7 @@ Send a message with optional file attachment.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -248,13 +242,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Google Gemini** for the powerful multimodal AI
 - **FastAPI** for the excellent Python framework
@@ -263,7 +257,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
+##  Contact
 
 For questions or support, please open an issue on GitHub.
 
@@ -271,8 +265,8 @@ For questions or support, please open an issue on GitHub.
 
 <div align="center">
 
-**Made with ❤️ and ☕**
+**Made with Love and Efforts**
 
-⭐ Star this repo if you find it helpful!
+ Star this repo if you find it helpful!
 
 </div>
