@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #475569;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* Enhanced Prose Styling */
+.prose {
+  @apply text-gray-800 dark:text-gray-200;
+}
+
+.prose code {
+  @apply text-sm;
+}
+
+.prose pre {
+  @apply bg-gray-900 dark:bg-black rounded-lg shadow-lg;
+}
+
+.prose pre code {
+  @apply text-gray-100;
+}
+
+/* Smooth transitions */
+* {
+  @apply transition-colors duration-200;
+}
+
+/* Code block enhancements */
+.hljs {
+  @apply bg-transparent;
+}
+
+/* Better focus states */
+input:focus,
+textarea:focus,
+button:focus {
+  @apply outline-none;
+}
